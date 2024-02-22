@@ -2,7 +2,8 @@
 
 Drill 1
 
-- pagination
+- Landing Page
+-  pagination
 - comment system
 - models
 - templates
